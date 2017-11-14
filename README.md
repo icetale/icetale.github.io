@@ -1,2 +1,0 @@
-# icetale.github.io
-MyNav
